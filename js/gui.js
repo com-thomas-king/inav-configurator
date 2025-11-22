@@ -24,6 +24,7 @@ var GUI_control = function () {
         'firmware_flasher',
         'mission_control',
         'sitl',
+        'test',
         'help'
     ];
     this.defaultAllowedTabsWhenConnected = [

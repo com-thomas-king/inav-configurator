@@ -292,6 +292,15 @@
     "sitlSerialReceiverHelp": {
         "message": "Use receiver (SBUS/CRSF/etc.) connected to host using USB-to-UART adapter or proxy Flight Controller."
     },
+    "tabTest": {
+        "message" : "Test"
+    },
+    "testProfiles": {
+        "message": "TEST Profiles"
+    },
+    "testProfilesHelp": {
+        "message": "Profiles are saved locally."
+    },
     "auxiliaryAcroEnabled": {
         "message": "ACRO"
     },

@@ -35,7 +35,8 @@ tabNames = [
  "receiver_msp",
  "sensors",
  "setup",
- "sitl"
+ "sitl",
+ "test"
 ];
 
 

@@ -914,6 +914,18 @@ li.active .ic_sitl {
     background-image: url("./../../images/icons/cf_icon_sitl_white.svg");
 }
 
+.ic_test {
+    background-image: url("./../../images/icons/cf_icon_pid_grey.svg");
+}
+
+.ic_test:hover {
+    background-image: url("./../../images/icons/cf_icon_pid_white.svg");
+}
+
+li.active .ic_test {
+    background-image: url("./../../images/icons/cf_icon_pid_white.svg");
+}
+
 .ic_calibration {
     background-image: url("./../../images/icons/cf_icon_cal_grey.svg");
 }
